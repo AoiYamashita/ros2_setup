@@ -12,4 +12,4 @@ echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 
 sudo curl -sSL http://get.gazebosim.org | sh
-#apt install ros-foxy-gazebo-* -y
+apt install ros-foxy-gazebo-* -y
